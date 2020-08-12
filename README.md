@@ -25,7 +25,6 @@ Een applicatie die het mogelijk maakt om gewerkte uren te registreren
 
 
 
-
 # API
 
 ## Clients
