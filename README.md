@@ -11,7 +11,9 @@ Een applicatie die het mogelijk maakt om gewerkte uren te registreren
 - er is een dag en een week weergave
 
 
-<img src="Screen%20Shot%202020-07-02%20at%209.07.53%20AM.png" width="300">
+<img src="Screen%20Shot%202020-07-02%20at%209.07.53%20AM.png" width="450">
+<img src="Screen%20Shot%202020-07-02%20at%209.09.14%20AM.png" width="450">
+
 
 
 ## Data
