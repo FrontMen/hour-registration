@@ -17,6 +17,7 @@ Een applicatie die het mogelijk maakt om gewerkte uren te registreren
 - Project
 - Task (default tasks)
 - Timesheet
+- Time_entry
 - User
 
 
