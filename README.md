@@ -11,9 +11,45 @@ Een applicatie die het mogelijk maakt om gewerkte uren te registreren
 - er is een dag en een week weergave
 
 
+## Data
+
+- Clients
+- Project
+- Task (default tasks)
+- Timesheet
+- User
+
+
+
+
+
 
 
 # API
+
+## Clients
+
+`GET /client`
+
+**request**
+```json
+ {
+
+ }
+ ```
+ 
+**response**
+
+```json
+{
+  "first_name": "Lasse",
+  "last_name": "Capel",
+  "id": 123,
+  "active": true
+}
+```
+
+
 
 ## Timesheet
 
