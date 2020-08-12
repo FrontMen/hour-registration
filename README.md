@@ -21,7 +21,7 @@ Een applicatie die het mogelijk maakt om gewerkte uren te registreren
 - User
 
 
-<img src="images/hours app.png" alt="Logo" width="300" height="300">
+<img src="hours_app.png" alt="diagram" width="600">
 
 
 
