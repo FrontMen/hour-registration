@@ -1,14 +1,15 @@
 # Uren registratie
 
-Een applicatie die het mogelijk maakt om gewerkte uren te registreren
+Een applicatie die het mogelijk maakt om gewerkte uren te registreren gevoed door data uit de bridge omgeving
 
 ## Functionaliteit
 - Wekenlijks wordt een urensheet ingevuld
 - Per regel kan worden aangegeven of het voor een klant/project/contract wordt gewerkt
-- per medewerker kunnen alle relevante klanten opgehaald worden
-- een timesheet moet per week ingestuurd worden
+- per medewerker kunnen alle relevante klanten opgehaald worden (op basis van contract)
+- een timesheet moet per week ingestuurd worden (submit)
 - een timesheet wordt approved door een manager
 - er is een dag en een week weergave
+
 
 Lege dag weergave
 
